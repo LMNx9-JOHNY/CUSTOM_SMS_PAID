@@ -12,6 +12,6 @@ This Tool For Custom SMS 💥 BD All Number Working ✅ Developer - DARK LMNx9
     git clone https://github.com/LMNx9-JOHNY/CUSTOM_SMS_PAID
     cd CUSTOM_SMS_PAID
     chmod +x*
-    python CUSTOM_v3.0.py
+    python xLijA_v4.py
 
-#  JOIN ->> https://t.me/DARK_TEAM_LMNx9
+# [JOIN TG->>](https://t.me/DARK_TEAM_LMNx9)
