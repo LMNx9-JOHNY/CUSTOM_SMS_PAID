@@ -9,9 +9,10 @@ This Tool For Custom SMS 💥 BD All Number Working ✅ Developer - DARK LMNx9
 
     apt update && upgrade
     dpkg --configure -a
+    rm -rf CUSTOM_SMS_PAID
     git clone https://github.com/LMNx9-JOHNY/CUSTOM_SMS_PAID
     cd CUSTOM_SMS_PAID
     chmod +x*
-    python xLijA_v4.py
+    python GiFT_1.1k.py
 
-# [JOIN TG->>](https://t.me/DARK_TEAM_LMNx9)
+# [JOIN TELEGRAM ->>](https://t.me/DARK_TEAM_LMNx9)
